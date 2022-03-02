@@ -1,12 +1,11 @@
-# Materi
-## Fermi
-### Microservice
-### Golang
+# materi
 
-# Career Plan
-## Fermi
-### Backend Developer
-#### Karena saya senang bermain dengan alur data dan proses
+## ilmi
 
-### Full Stack Developer
-#### ingin mengembangkan lebih jauh
+### belajar mengenai backend
+
+# career plan
+
+## ilmi
+
+### web devolover , kalau bisa jadi pengusaha
